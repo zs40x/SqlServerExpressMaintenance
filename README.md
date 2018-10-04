@@ -6,3 +6,5 @@
 4. Create Direcotries C:\SqlBackup\Backups, C:\SqlBackup\Reports 
 5. Add the [Backup-Sql-Script](Daily_Full_Backup.sql) to the C:\SqlBackup directory
 6. Scheulde the backup task [with this settings](Scheduled_Task.txt)
+
+[Reference, Scheduling backup and maintenance for SQL Server Express, verba.com](https://kb.verba.com/display/docs/Scheduling+backup+and+maintenance+for+SQL+Server+Express)
