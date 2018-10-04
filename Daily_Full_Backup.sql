@@ -1,5 +1,5 @@
 exec master.dbo.expressmaint
-   @database      = 'Polipol.SinglePly.Infrastructure.Database.SinglePlyDbContext',
+   @database      = 'DbName',
    @optype        = 'DB',
    @backupfldr    = 'C:\SqlBackup\Backups\',
    @reportfldr    = 'C:\SqlBackup\Reports\',
