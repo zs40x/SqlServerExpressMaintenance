@@ -3,4 +3,4 @@ Program:
 "C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\SQLCMD.EXE"
 
 Arguments:
--S .\SQLEXPRESS -i "C:\SqlBackup\Daily_Full_Backup.sql"
+-S .\SQLEXPRESS -i "D:\SqlBackup\Daily_Full_Backup.sql"
